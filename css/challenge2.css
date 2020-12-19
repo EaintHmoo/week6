@@ -1,0 +1,44 @@
+#logo{
+    position: relative;;
+    top:25px;
+}
+.banner{
+    background:url("../images/banner.jpg") no-repeat;
+    height: 400px;
+}
+.detail{
+    width:200px;
+    background-color: rgb(149, 39, 223);
+    color:white;
+}
+.banner-content{
+    padding-top:100px;
+}
+.display-4{
+    font-size: 30px;
+}
+.notice{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.about{
+    background-color: #012627;
+    color:gray;
+    font-size: small;
+}
+h3{
+    color:white;
+}
+.list{
+    list-style: none;
+}
+.list a{
+    color:gray;
+}
+.footer{
+    background-color: rgb(1, 24, 21);
+    color:white;
+}
+hr{
+    border:solid gray 1px;
+}
